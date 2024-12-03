@@ -1,0 +1,10 @@
+{"list of all ingredients": [{
+   "isLiquid": false,
+   "name": "Yogurt",
+   "listOfPurchase": [{
+      "amount": 20,
+      "expiration date": "2024-05-02"
+   }],
+   "isIndividual": true,
+   "category": "DAIRY"
+}]}

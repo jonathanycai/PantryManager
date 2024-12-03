@@ -1,0 +1,16 @@
+{"list of all ingredients": [
+   {
+      "isLiquid": false,
+      "name": "Sausage",
+      "listOfPurchase": [],
+      "isIndividual": true,
+      "category": "PROTEIN"
+   },
+   {
+      "isLiquid": false,
+      "name": "Potatoes",
+      "listOfPurchase": [],
+      "isIndividual": true,
+      "category": "FRUIT_AND_VEG"
+   }
+]}
